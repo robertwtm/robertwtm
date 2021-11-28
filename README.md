@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" height="175px"/></a>
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou o robert</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -44,12 +44,6 @@
 <br/>
 
 
-## 📊 My Github Stats
-
-<br/>
-
-<a href="https://github.com/robertwtm/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=robertwtm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
@@ -57,8 +51,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/robertwtm/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/robertwtm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
-
+ -->
