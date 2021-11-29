@@ -2,7 +2,7 @@
 
 <br/>
 
-- 👨‍💻 Atualmente estou me dedicando em tempo integral ao Bootcamp de Desenvolvedor Java Full Stack da **[Generation Brasil](https://www.linkedin.com/school/generationbrasil/)**, complemento meus estudos com cursos em plataformas onlines como a Dio.me 
+- 👨‍💻 Atualmente estou me dedicando em tempo integral ao Bootcamp de Desenvolvedor Java Full Stack da **[Generation Brasil](https://www.linkedin.com/school/generationbrasil/)**, complemento meus estudos com cursos em plataformas onlines como a **[Dio.me](https://www.dio.me/)**
 
 
 - 🙋 Sempre estou ouvindo música e adoro conhecer artistas novos, no meu tempo livre procuro me divertir saindo com amigos ou cozinhar alguma receita que encontro na ‘internet’
