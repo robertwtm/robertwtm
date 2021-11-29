@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white) -->
 
+
 <p align="right">
 <a href = "mailto:robertwtavares@gmail.com"><img src="https://img.icons8.com/ios-filled/30/ffffff/apple-mail.png"/></a>
 <a href = "https://www.linkedin.com/in/robertwtm/"><img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"/></a>
