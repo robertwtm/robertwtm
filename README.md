@@ -4,7 +4,7 @@
 
 - 🙋 Sempre estou ouvindo música e adoro conhecer artistas novos. No meu tempo livre, procuro me divertir saindo com amigos ou cozinhando alguma receita que encontro na ‘internet’
 
-### 🔧 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white)
+### 🔧 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/Tools-eclipseIDE-informational?style=flat&logo=Eclipse&logoColor=white) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white)
 
 <p align="right">
 <a href = "mailto:robertwtavares@gmail.com"><img src="https://img.icons8.com/ios-filled/30/ffffff/apple-mail.png"/></a>
