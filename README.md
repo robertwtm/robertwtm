@@ -7,6 +7,6 @@
 ### 🔧 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/Tools-eclipseIDE-informational?style=flat&logo=Eclipse&logoColor=white) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Tools-SpringBoot-informational?style=flat&logo=Spring&logoColor=white)
 
 <p align="right">
-<a href = "mailto:robertwtavares@gmail.com"><img src="https://img.icons8.com/ios-filled/30/ffffff/apple-mail.png"/></a>
-<a href = "https://www.linkedin.com/in/robertwtm/"><img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"/></a>
-<a href = "https://www.instagram.com/robertwtm/"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/30/ffffff/external-camera-photography-kiranshastry-solid-kiranshastry.png"/></a>
+<a href = "mailto:robertwtavares@gmail.com"><img src="https://img.icons8.com/ios-filled/30/4b96ef/apple-mail.png"/></a>
+<a href = "https://www.linkedin.com/in/robertwtm/"><img src="https://img.icons8.com/ios-filled/30/4b96ef/linkedin.png"/></a>
+<a href = "https://www.instagram.com/robertwtm/"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/30/4b96ef/external-camera-photography-kiranshastry-solid-kiranshastry.png"/></a>
