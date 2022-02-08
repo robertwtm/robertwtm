@@ -11,6 +11,7 @@
 
 
 <p align="right">
+<a href="https://wa.me/5511913327788?text=Olá,%20vi%20seu%20GitHub!" target="_blank"> <img src="https://img.icons8.com/ios-filled/30/1E90FF/whatsapp.png"/></a>
 <a href = "mailto:robertwtavares@gmail.com"><img src="https://img.icons8.com/ios-filled/30/1E90FF/apple-mail.png"/></a>
 <a href = "https://www.linkedin.com/in/robertwtm/"><img src="https://img.icons8.com/ios-filled/30/1E90FF/linkedin.png"/></a>
 <a href = "https://www.instagram.com/robertwtm/"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/30/1E90FF/external-camera-photography-kiranshastry-solid-kiranshastry.png"/></a>
