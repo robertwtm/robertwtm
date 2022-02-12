@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, world! <img src="https://img.icons8.com/color/00000/geography--v3.png" width="30px"></h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231E90FF&center=true&lines=Hello%2C+world...+%F0%9F%8C%8D)](https://git.io/typing-svg)
 <h4 align="center">Prazer 🤝 sou o Robert, desenvolvedor Full Stack</h4>
 
 - Atualmente estou me dedicando em tempo integral ao Bootcamp de  **[Desenvolvedor Java Full Stack](https://github.com/robertwtm/generation-brasil)** da **[Generation Brasil](https://www.linkedin.com/school/generationbrasil/)**. Complemento meus estudos com cursos na plataforma **[Dio.me](https://github.com/robertwtm/digital-innovation-one)**
