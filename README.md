@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231E90FF&center=true&vCenter=true&width=900&lines=Hello%2C+world...+%F0%9F%8C%8D)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231E90FF&size=30&center=true&vCenter=true&width=900&lines=Hello%2C+world++...+%F0%9F%8C%8D+I'm+Robert+)](https://git.io/typing-svg)
 
-<h4 align="center">Prazer 🤝 sou o Robert, desenvolvedor Full Stack</h4>
+<h4 align="center">Desenvolvedor Full Stack 👨‍💻</h4>
 
 - Atualmente estou me dedicando em tempo integral ao Bootcamp de  **[Desenvolvedor Java Full Stack](https://github.com/robertwtm/generation-brasil)** da **[Generation Brasil](https://www.linkedin.com/school/generationbrasil/)**. Complemento meus estudos com cursos na plataforma **[Dio.me](https://github.com/robertwtm/digital-innovation-one)**
 
